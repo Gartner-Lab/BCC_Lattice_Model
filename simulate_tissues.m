@@ -1,5 +1,4 @@
-datadir = fullfile('/Users', 'Vasudha', 'Library','CloudStorage','Box-Box', 'Gartnerlab Data', 'Individual Folders', ...
-        'Vasudha Srivastava', 'codes', 'DAH_modeling', 'data');
+datadir = '' % Edit file path;
 %datadir = find_datadir();
 const = struct('L',1,'M',2,'C',3,'B',4,'X',5,'EL',6, ...
     'LL',1,'LM',2,'LX',3,'MM',4,'MX',5);
